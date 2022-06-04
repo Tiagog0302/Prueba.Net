@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\PruebaNet\capaEntidad\bin\Debug\net6.0-windows\capaEntidad.deps.json
+C:\Users\user\source\repos\PruebaNet\capaEntidad\bin\Debug\net6.0-windows\capaEntidad.dll
+C:\Users\user\source\repos\PruebaNet\capaEntidad\bin\Debug\net6.0-windows\capaEntidad.pdb
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.AssemblyInfo.vb
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.dll
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\refint\capaEntidad.dll
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.pdb
+C:\Users\user\source\repos\PruebaNet\capaEntidad\obj\Debug\net6.0-windows\ref\capaEntidad.dll
